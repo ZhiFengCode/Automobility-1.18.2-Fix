@@ -29,7 +29,7 @@ Caused by: java.lang.NoSuchFieldError: wheelModelPool
 - Fabric Api 0.77.0	
 - Fabric-loader 0.15.11	
 
-## 下发为原仓库 README	
+## 下方为原仓库 README	
 
 ![Automobility](./md/banner.png)
 
